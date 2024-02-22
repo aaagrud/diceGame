@@ -1,0 +1,44 @@
+body{
+    background-color: #FFF4E0;
+    padding: 0px;
+    margin: 0px;
+}
+
+.heading{
+    color: #4D4D4D;
+    font-size: 3rem;
+    font-family:'Courier New', Courier, monospace;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img{
+    width: 200px;
+}
+
+.dices p{
+    padding-left: 1.75rem;
+    font-size: 1.5rem;
+    color: #4D4D4D;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
+.dices{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer p{
+    font-family: 'Courier New', Courier, monospace;
+    color: #4D4D4D;
+    font-weight: bolder;
+}
+
+.footer{
+    display: flex;
+    padding-top: 4rem;
+    justify-content: center;
+}
